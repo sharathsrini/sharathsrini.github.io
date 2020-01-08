@@ -2,15 +2,23 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+# I am an Engineer by academic, an Application Developer by Passion.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I love taking up tasks from initial concept to final launch--thinking about the big picture while delivering on the details. My approach is based on design thinking, lean startup, and agile principles. I believe that great products emerge from developing true empathy for your customers, understanding their problems with clarity, and using iterative development to create simple solutions.
 
-What else do you need?
+My experiences reflect a holistic interest in bringing technology products to market. They include:
+* Self-Driving Car Nano-Degree from Udacity .
+* Electronic Engineer in 4ZE Racing 
+* Control and Stability of Tri-Rotor Systems
+* Application Developer for Unmanned Aerial Vehicles
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Current technology stack:
+
+Autonomous system Development : C++, Python, ROS, Tensorflow, Pytorch, Gazebo
+Mobile Development: iOS, Swift, Python, Arduino, Java, Embedded C
+Electronic Simulation in PSpice, LABVIEW, Proteus , MATLAB
+Electronic controller design , PID Tuning , Battery Management System , PCB Designing.
