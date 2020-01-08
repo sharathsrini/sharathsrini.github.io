@@ -22,7 +22,7 @@ description: Is this Working
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Kalman Filter : "https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
@@ -69,8 +69,8 @@ author:
 social-network-links:
   rss: true
   email: "sharathsrini94.com"
-  facebook: deanattali
-  github: daattali
+  facebook: sharathsrini
+  github: sharathsrini
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
